@@ -1,0 +1,8 @@
+﻿  send.cpp
+C:\Users\magshimim\Desktop\torPro\client\client\encrypt_structures.h(142,12): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\magshimim\Desktop\torPro\client\client\encrypt_structures.h(172,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\magshimim\Desktop\torPro\client\client\encrypt_structures.h(186,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\magshimim\Desktop\torPro\client\client\encrypt_structures.h(657,7): warning C4101: 'hex_str': unreferenced local variable
+C:\Users\magshimim\Desktop\torPro\client\client\send.cpp(116,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  sqlite3.c
+  client.vcxproj -> C:\Users\magshimim\Desktop\torPro\client\Debug\client.exe
