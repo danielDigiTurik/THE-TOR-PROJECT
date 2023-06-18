@@ -1,0 +1,7 @@
+﻿  Communicator.cpp
+C:\Users\magshimim\Desktop\torPro\factoryHandler\ConsoleApplication1\Communicator.cpp(143,8): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\magshimim\Desktop\torPro\factoryHandler\ConsoleApplication1\Communicator.cpp(161,52): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Server.cpp
+  main.cpp
+  Generating Code...
+  ConsoleApplication1.vcxproj -> C:\Users\magshimim\Desktop\torPro\factoryHandler\x64\Debug\ConsoleApplication1.exe

@@ -1,0 +1,26 @@
+﻿  Communicator.cpp
+  JsonRequestPacketDeserializer.cpp
+C:\Users\magshimim\Documents\Magshima יב'14\f.h\ConsoleApplication1\ConsoleApplication1\JsonRequestPacketDeserializer.cpp(13,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\magshimim\Documents\Magshima יב'14\f.h\ConsoleApplication1\ConsoleApplication1\JsonRequestPacketDeserializer.cpp(39,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\magshimim\Documents\Magshima יב'14\f.h\ConsoleApplication1\ConsoleApplication1\JsonRequestPacketDeserializer.cpp(67,20): warning C4018: '<': signed/unsigned mismatch
+  JsonResponsePacketSerializer.cpp
+C:\Users\magshimim\Documents\Magshima יב'14\f.h\ConsoleApplication1\ConsoleApplication1\JsonResponsePacketSerializer.cpp(18,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\magshimim\Documents\Magshima יב'14\f.h\ConsoleApplication1\ConsoleApplication1\JsonResponsePacketSerializer.cpp(41,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\magshimim\Documents\Magshima יב'14\f.h\ConsoleApplication1\ConsoleApplication1\JsonResponsePacketSerializer.cpp(63,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\magshimim\Documents\Magshima יב'14\f.h\ConsoleApplication1\ConsoleApplication1\JsonResponsePacketSerializer.cpp(85,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\magshimim\Documents\Magshima יב'14\f.h\ConsoleApplication1\ConsoleApplication1\JsonResponsePacketSerializer.cpp(110,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\magshimim\Documents\Magshima יב'14\f.h\ConsoleApplication1\ConsoleApplication1\JsonResponsePacketSerializer.cpp(134,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\magshimim\Documents\Magshima יב'14\f.h\ConsoleApplication1\ConsoleApplication1\JsonResponsePacketSerializer.cpp(199,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\magshimim\Documents\Magshima יב'14\f.h\ConsoleApplication1\ConsoleApplication1\JsonResponsePacketSerializer.cpp(204,20): warning C4018: '<': signed/unsigned mismatch
+  LoginManager.cpp
+  LoginRequestHandler.cpp
+  MenuRequestHandler.cpp
+C:\Users\magshimim\Documents\Magshima יב'14\f.h\ConsoleApplication1\ConsoleApplication1\MenuRequestHandler.cpp(125,15): warning C4129: 'g': unrecognized character escape sequence
+C:\Users\magshimim\Documents\Magshima יב'14\f.h\ConsoleApplication1\ConsoleApplication1\MenuRequestHandler.cpp(133,15): warning C4129: 'g': unrecognized character escape sequence
+C:\Users\magshimim\Documents\Magshima יב'14\f.h\ConsoleApplication1\ConsoleApplication1\MenuRequestHandler.cpp(189,15): warning C4129: 'j': unrecognized character escape sequence
+  RequestHandlerFactory.cpp
+  Server.cpp
+  SqliteDatabase.cpp
+  main.cpp
+  Generating Code...
+  ConsoleApplication1.vcxproj -> C:\Users\magshimim\Documents\Magshima יב'14\f.h\ConsoleApplication1\Debug\ConsoleApplication1.exe
